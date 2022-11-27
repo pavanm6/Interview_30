@@ -5,5 +5,5 @@
  * @author pavan
  *
  */
-module CoreJava {
+module JavaCodes30 {
 }
